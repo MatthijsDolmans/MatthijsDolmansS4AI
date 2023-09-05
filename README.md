@@ -1,4 +1,5 @@
 # MatthijsDolmansS4AI
+# intro
 
 # 1 Data Preparation & Analysis
 - You are able to aggregate and prepare given datasets as well as other (open) datasets and use them in data analysis and identify opportunities for predictive analytics.
