@@ -2,7 +2,7 @@
 
 # intro
 Hello everyone! In my fourth semester of ict in Fontys Eindhove I chose the Specialization AI.
-For the group project, I worked with a team of previous software students [arthur](https://github.com/Arthur-Brouwers), [Cédric](https://github.com/basjebasie), [Rik](https://github.com/RFieret), [Michal](https://github.com/MichalI495002)
+For the group project, I worked with a team of previous software students [arthur](https://github.com/Arthur-Brouwers), [Cédric](https://github.com/basjebasie), [Rik](https://github.com/RFieret)
 
 For the individual project
 # 1 Data Preparation & Analysis
